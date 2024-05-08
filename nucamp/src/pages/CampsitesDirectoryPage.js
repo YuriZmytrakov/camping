@@ -10,9 +10,6 @@ const CampsitesDirectoryPage = () => {
 
     const selectedCampsite = selectCampsiteById(campsiteId);
 
-
-
-
     return (
         <Container>
             <Row>
